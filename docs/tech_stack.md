@@ -11,7 +11,7 @@ Each of these categories contain a table with technologies that are specific to 
 - Discovered: the technology has been added to the list for reference. It may never leave this status
 - *In Consideration:* the technology is being furthered investigated to be incorporated into the project and may be compared against other similar options
 - **Chosen:** the technology has been selected for use and is needs to be integrated into the project
-- ==Integrated:== the technology is actively used in the project
+- <mark>Integrated:</mark> the technology is actively used in the project
 - ~~Deprecated:~~ the technology was in use in the project at one point in time but has since been removed, either due to being replaced by a similar option or becoming unnecessary
 
 ## Backend
@@ -54,7 +54,7 @@ Each of these categories contain a table with technologies that are specific to 
 
 | ID | Name | Description | Status |
 | -: | ---- | ----------- | ------ |
-| 0 | [VS Code](tech/vscode.md) | Lightweight and extendable development environment | ==Integrated== |
+| 0 | [VS Code](tech/vscode.md) | Lightweight and extendable development environment | <mark>Integrated</mark> |
 | 1 | [Git](tech/git.md) | Version control for maintaining code and resource changes locally and remotely | **Chosen** |
 | 2 | [Rally](tech/rally.md) | Task management utility for managing user stories and project status | **Chosen** |
 | 3 | [Minikube](tech/minikube.md) | Local lightweight Kubernetes cluster for development and testing | *In Consideration* |
