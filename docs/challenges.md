@@ -15,5 +15,7 @@ This document is intended to be an ongoing log of challenges I have faced over t
 
 **Problem:** It appears GitHub does not recognize standard markdown for highlighting (e.g. "==text==") as described here: https://www.markdownguide.org/extended-syntax/#highlight. This makes the highlighting for integrated technologies in the [tech stack document](tech_stack.md) incorrect and leaves the "=" characters.
 
-**Solution:** Changing the markdown to `<mark></mark>` (an alternative when the viewer supports HTML) resolved the issue. I also found the following VS Code extension helpful for previewing changes:
+**Solution:** TBD
+
+*This was not the solution:* Changing the markdown to `<mark></mark>` (an alternative when the viewer supports HTML) resolved the issue. I also found the following VS Code extension helpful for previewing changes:
 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)

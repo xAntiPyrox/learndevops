@@ -56,7 +56,8 @@ Each of these categories contain a table with technologies that are specific to 
 | -: | ---- | ----------- | ------ |
 | 0 | [VS Code](tech/vscode.md) | Lightweight and extendable development environment | <mark>Integrated</mark> |
 | 1 | [Git](tech/git.md) | Version control for maintaining code and resource changes locally and remotely | **Chosen** |
-| 2 | [Rally](tech/rally.md) | Task management utility for managing user stories and project status | **Chosen** |
+| 2 | [Rally](tech/rally.md) | Task management utility for managing user stories and project status | ~~Deprecated~~ |
 | 3 | [Minikube](tech/minikube.md) | Local lightweight Kubernetes cluster for development and testing | *In Consideration* |
 | 4 | [StackShare](tech/stackshare.md) | Website for reviewing other tech stacks and technologies used by projects and companies | *In Consideration* |
 | 5 | [Cloudcraft](tech/cloudcraft.md) | Website for designing cloud-based architecture for your application | *In Consideration* |
+| 6 | [Taiga.io](tech/taigaio.md) | Task management utility for managing user stories and project status | <mark>Integrated</mark> |
